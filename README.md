@@ -15,7 +15,7 @@ Este es el backend del proyecto Car Management, desarrollado con Spring Boot y S
 1. Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/tuusuario/car-management-backend.git
+    git clone https://github.com/alfredoramos2603/car-management-backend.git
     cd car-management-backend
     ```
 
